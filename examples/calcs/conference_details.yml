@@ -5,11 +5,12 @@ cover_subtitle: Proceedings of the Workshop
 anthology_venue_id: CALCS
 start_date: 2023-12-07
 end_date: 2023-12-07
-isbn: XXX-X-XXXXXX-XX-X
+isbn: 979-8-89176-053-0
 location: Singapore
 editors:
   - first_name: Genta
     last_name: Winata
+    middle_name: Indra
   - first_name: Sudipta
     last_name: Kar
   - first_name: Marina
